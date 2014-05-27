@@ -1,0 +1,7 @@
+* Problem Definition 
+* Problem Outline
+* Needs
+* Fearures
+* Objectives
+   -Turn Based Combat
+* Boundaries
